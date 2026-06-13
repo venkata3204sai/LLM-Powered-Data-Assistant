@@ -1,6 +1,6 @@
 # LLM-Powered Data Assistant — Twitch Data Analysis
 
-<p align="left"> <a href="LICENSE"> <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License"> </a> <img src="https://img.shields.io/badge/Python-3.10+-blue.svg" alt="Python Version"> <img src="https://img.shields.io/badge/Framework-Ollama-red.svg" alt="Framework"> <img src="https://img.shields.io/badge/Models-Llama3.2%20%7C%20Gemma7B-green.svg" alt="Models Used"> <img src="https://img.shields.io/badge/Approach-RAG-purple.svg" alt="Approach"> </p>
+<p align="left"> <a href="LICENSE"> <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License"> </a> <img src="https://img.shields.io/badge/Python-3.10+-blue.svg" alt="Python Version"> <img src="https://img.shields.io/badge/Framework-Ollama-red.svg" alt="Framework"> <img src="https://img.shields.io/badge/Models-Llama3.2%20%7C%20Gemma7B-green.svg" alt="Models Used"> </p>
 
 An intelligent Retrieval-Augmented Generation (RAG) chatbot that allows users to query a Twitch dataset using natural language.
 The system converts queries into pandas code, executes them, and generates insightful summaries using multiple locally hosted LLMs.
