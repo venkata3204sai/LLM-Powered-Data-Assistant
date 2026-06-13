@@ -1,4 +1,4 @@
-# RAG Chatbot — Twitch Data Analysis
+# LLM-Powered Data Assistant — Twitch Data Analysis
 
 <p align="left"> <a href="LICENSE"> <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License"> </a> <img src="https://img.shields.io/badge/Python-3.10+-blue.svg" alt="Python Version"> <img src="https://img.shields.io/badge/Framework-Ollama-red.svg" alt="Framework"> <img src="https://img.shields.io/badge/Models-Llama3.2%20%7C%20Gemma7B-green.svg" alt="Models Used"> <img src="https://img.shields.io/badge/Approach-RAG-purple.svg" alt="Approach"> </p>
 
@@ -51,7 +51,7 @@ Series → converted to DataFrame
 
 ## Repository Structure
 ```bash
-RAG_Chatbot_Project/
+Chatbot_Project/
 │
 ├── rag-chatbot.py              # Main chatbot script
 ├── twitchdata-update.csv       # Dataset (Top 1000 Twitch streamers)
